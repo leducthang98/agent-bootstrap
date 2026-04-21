@@ -1,6 +1,6 @@
 # Claude Code Boilerplate
 
-My starting point for new projects with [Claude Code](https://claude.com/claude-code). Ships with a few MCP servers and skills I reach for often.
+Starting point for new projects with [Claude Code](https://claude.com/claude-code). Ships with a few MCP servers and skills I reach for often.
 
 ## Setup
 
